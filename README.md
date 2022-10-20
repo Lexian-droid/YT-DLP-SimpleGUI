@@ -1,5 +1,5 @@
 <img src='https://github.com/Lexian-droid/YT-DLP-SimpleGUI/blob/c8d657f6d5ec88ce864e332074d3acfac6aa53b2/yt-dlp-gui_QnE6opGdFl.png' width='100%'></img>
-# YT-DLP-SimpleGUI
+# YT-DLP-GUI
 ### by LexianDEV.
 ---
 
