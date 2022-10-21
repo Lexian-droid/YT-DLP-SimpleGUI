@@ -51,3 +51,7 @@ We embrace further improvements, and will love for community contribution. If yo
 - <a href='https://lexian.dev'>LexianDEV</a> - GUI ("Application") Developer
 - <a href='https://github.com/yt-dlp/yt-dlp'>yt-dlp</a> - YouTube downloader Software
 - <a href='https://ffmpeg.org/'>FFmpeg</a> - Video/Image processing Software
+
+<a href='https://lexiandev.itch.io/yt-dlp-simplegui'>
+<img src='https://static.itch.io/images/badge.svg' width='50%'>
+</a>
