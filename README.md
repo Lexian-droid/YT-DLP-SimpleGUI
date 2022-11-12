@@ -36,6 +36,7 @@ Now that you have the GUI fully set up, you are now ready to download videos. Ho
 
 - ``Video URL`` - This is the YouTube video URL that you wish to download.
 - ``Convert`` - This is the format your video will be saved in.
+- ``Mode`` - This is the mode the software will act in. (*For playlists*)
 - ``FFMPEG Location`` - If the above steps were completed successfully, this field will automatically populate, however, If not, you can select the folder button next to it.
 - ``Custom Params (Advanced)`` - This is for Advanced users, it is to allow you to directly insert your own parameters into the script. This can be leaved empty.
 - ``Command Preview`` - This is your command as it will be executed.
